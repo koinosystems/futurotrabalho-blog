@@ -11,13 +11,13 @@
     {
       "binding": "BLOG_DB",
       "database_name": "futurotrabalho-blog-db",
-      "database_id": "00000000-0000-0000-0000-000000000000"
+      "database_id": "3f460dcd-c427-44fc-bca0-ba722fa08937"
     }
   ],
   "kv_namespaces": [
     {
       "binding": "BLOG_KV",
-      "id": "00000000000000000000000000000000"
+      "id": "ff8b5c6710394c29a933a84e05a5997d"
     }
   ],
   "vars": {
